@@ -9,8 +9,8 @@ import os
 
 LINE = (
     "Twelve yoghurts, nothing else. I have scanned your entire "
-    "personality and it expires on Friday \u2014 please place your "
-    "disappointment in the bagging area."
+    "personality and it expires on Friday \u2014 your disappointment "
+    "goes in the bagging area."
 )
 
 
